@@ -1,4 +1,4 @@
 pylibmc==1.6.1
-apache-superset==0.34.1
+apache-superset==0.35.2
 psycopg2==2.8.4
 pygresql==5.1
